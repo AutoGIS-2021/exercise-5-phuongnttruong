@@ -20,5 +20,5 @@ Edit the text below and add links to the maps that you have created:
  - [My interactive map](https:area_suitable_for_solar_panels_in_helsinki.html)
  
  You can check syntax for formatting the links in here: 
- - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
+ - [Link to test map](https://area_suitable_for_solar_panels_in_helsinki.html)
 
