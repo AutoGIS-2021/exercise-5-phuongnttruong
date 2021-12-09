@@ -16,9 +16,9 @@ In order to access the files via the links, you need to set the repository as pu
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map](https://github.com/AutoGIS-2021/exercise-5-phuongnttruong/blob/main/docs/SUITABLE_AREAS_FOR_SOLAR_PANELS_IN_HELSINKI_AREA.html)
+ - [My static map](https://autogis-2021.github.io/exercise-5-phuongnttruong/time_to_travel_to_the_north_of_Helsinki_by_car_in_rush_hour.png)
+ - [My interactive map](https://autogis-2021.github.io/exercise-5-phuongnttruong/SUITABLE_AREAS_FOR_SOLAR_PANELS_IN_HELSINKI_AREA.html)
  
  You can check syntax for formatting the links in here: 
- - [Link to test map](https://area_suitable_for_solar_panels_in_helsinki.html)
+ - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
 
