@@ -72,7 +72,17 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
-  
+## Exercise 5 grade and feedback: 14.0 / 20.0 points
+### Grader
+- Justus Poutanen
+### Problem scores
+- Problem 1: 8.0 / 8.0 
+- Problem 2: 6.0 / 10.0 
+- Problem 3: 0.0 / 2.0
+### Comments 
+- In prob 1, the source of data is not specified
+- There isn't a second layer of data or any analysis done to the data in prob 2 
+- Nice maps!  
   
   
   
